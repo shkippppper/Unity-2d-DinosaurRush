@@ -7,3 +7,20 @@ Dinosaur Game is an endless runner game originally built into Google Chrome.
 # Link to game page:
 
 > https://atitb.itch.io/dinosaur-rush
+
+
+# CLASSIC DINOSAUR GAME MODE
+
+![](https://github.com/shkippppper/Unity-2d-DinosaurRush/blob/main/Gifs/Classic.gif)
+
+# HARD GAME MODE, WITH MODIFIERS
+
+![](https://github.com/shkippppper/Unity-2d-DinosaurRush/blob/main/Gifs/HardGamemode.gif)
+
+# LIVE UPDATED LEADERBOARDS
+
+![](https://github.com/shkippppper/Unity-2d-DinosaurRush/blob/main/Gifs/Leaderboards.gif)
+
+# CUSTOM DINOSAURS TO UNLOCK AND PLAY:
+
+![](https://github.com/shkippppper/Unity-2d-DinosaurRush/blob/main/Gifs/Dinos.gif)
