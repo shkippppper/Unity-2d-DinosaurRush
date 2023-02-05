@@ -4,9 +4,8 @@ Dinosaur Game is an endless runner game originally built into Google Chrome.
 
 > All the assets taken from https://Google.com
 
-# Link to game page:
+# ![Play](https://atitb.itch.io/dinosaur-rush)
 
-> https://atitb.itch.io/dinosaur-rush
 
 
 # CLASSIC DINOSAUR GAME MODE
